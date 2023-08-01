@@ -47,5 +47,3 @@ In this project we have applied a semi-supervised approach for estimating the Re
 Davide Angelani
 
 Yellam Naidu Kottavalasa
-
-Usha Padma Rachakonda
