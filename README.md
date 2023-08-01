@@ -44,6 +44,6 @@ To simulate the scarcity of the data at various level, we define a series of rat
 In this project we have applied a semi-supervised approach for estimating the Remain Useful Life. The approach looks promising when used with a small quantity of supervised data. The problem is the high average of remaining days to the end-of-life for each machine, predicted by the model on which we have applied the regularizer. This is probably due to the too strictly satisfaction of the constraints but it needs further investigation.
 
 ## Authors
-Davide Angelani
-
 Yellam Naidu Kottavalasa
+
+Davide Angelani
